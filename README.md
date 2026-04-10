@@ -12,7 +12,7 @@ Focus areas:
 
 ## Tested Titles
 
-- [Car Mechanic Simulator 2026 Demo](./reports/cms-2026-demo.md)
+- [Car Mechanic Simulator 2026 Demo](.car-mechanic-simulator-2026-demo.md)
 
 ---
 
